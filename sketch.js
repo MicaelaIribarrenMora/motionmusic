@@ -34,7 +34,7 @@ function setup() {
 }
 
 function modelReady() {
-  success = createP('Raise your right hand to begin playing :)');
+  success = createP('Levanta la mano derecha para empezar a jugar :)');
   success.class('success');
 }
 
